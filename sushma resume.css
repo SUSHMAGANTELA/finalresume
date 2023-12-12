@@ -1,0 +1,40 @@
+
+body{
+
+    margin: 0;
+}
+.all {
+    display: flex;
+    background-color: #0c3959;
+    border-color: #565656;
+    border-width: 2px;
+    border: solid; 
+}
+
+.box1 {
+    
+    padding: 50px;
+    height: 100vh;
+    width: 50vw;
+    color: white;
+}
+
+.box2 {
+    font-family:'calibri';
+    padding: 30px;
+    height: 200vh;
+    width: 50vw;
+    background-color:#dceff5;
+
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 90px;
+   
+}
+.img{
+    margin-left: 150px;
+}
+
+.font{
+    font-family:'calibri';
+    margin-top: 60px;
+}
